@@ -1,2 +1,2 @@
-# exercicios_pyhton
-Repositório criado para exercícios de várias fontes.
+# Exercicios_Pyhton
+Repositório criado para exercícios desenvolvidos em Python.
